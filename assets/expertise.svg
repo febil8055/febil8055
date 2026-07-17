@@ -1,0 +1,55 @@
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Expertise: Develop (Oracle APEX, PL/SQL, SQL, ORDS REST, JavaScript, Java), Operate (Oracle Cloud OCI, Azure DevOps, RMAN, Data Pump, performance tuning, production support), Secure (Okta IAM, SSO MFA RBAC, Active Directory, Splunk SIEM, Fortinet)">
+  <defs>
+    <linearGradient id="vhair2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2a30" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38383f"/>
+      <stop offset="1" stop-color="#2a2a30" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="900" height="240" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="240" fill="#0a0a0c"/>
+
+    <rect x="300" y="36" width="1" height="168" fill="url(#vhair2)"/>
+    <rect x="600" y="36" width="1" height="168" fill="url(#vhair2)"/>
+
+    <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">
+      <!-- DEVELOP -->
+      <g ><animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="1.2s" fill="freeze"/>
+        <text x="150" y="60" text-anchor="middle" font-size="12" font-weight="600" letter-spacing="4" fill="#f5f5f7">DEVELOP</text>
+        <g text-anchor="middle" font-size="13.5" font-weight="400" fill="#9a9aa1">
+          <text x="150" y="96">Oracle APEX</text>
+          <text x="150" y="120">PL/SQL &#183; SQL</text>
+          <text x="150" y="144">ORDS &#183; REST APIs</text>
+          <text x="150" y="168">JavaScript &#183; HTML &#183; CSS</text>
+          <text x="150" y="192">Java</text>
+        </g>
+      </g>
+
+      <!-- OPERATE -->
+      <g ><animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="1.2s" fill="freeze"/>
+        <text x="450" y="60" text-anchor="middle" font-size="12" font-weight="600" letter-spacing="4" fill="#f5f5f7">OPERATE</text>
+        <g text-anchor="middle" font-size="13.5" font-weight="400" fill="#9a9aa1">
+          <text x="450" y="96">Oracle Cloud (OCI)</text>
+          <text x="450" y="120">Azure DevOps &#183; ServiceNow</text>
+          <text x="450" y="144">RMAN &#183; Data Pump</text>
+          <text x="450" y="168">Performance Tuning</text>
+          <text x="450" y="192">Production / UAT Support</text>
+        </g>
+      </g>
+
+      <!-- SECURE -->
+      <g ><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="1.2s" fill="freeze"/>
+        <text x="750" y="60" text-anchor="middle" font-size="12" font-weight="600" letter-spacing="4" fill="#f5f5f7">SECURE</text>
+        <g text-anchor="middle" font-size="13.5" font-weight="400" fill="#9a9aa1">
+          <text x="750" y="96">Okta IAM</text>
+          <text x="750" y="120">SSO &#183; MFA &#183; RBAC</text>
+          <text x="750" y="144">Active Directory Sync</text>
+          <text x="750" y="168">Splunk SIEM</text>
+          <text x="750" y="192">Fortinet</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

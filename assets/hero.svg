@@ -1,0 +1,47 @@
+<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Febil Pulickal Varkeychan — Oracle APEX and PL/SQL Developer, Cybersecurity and IAM">
+  <defs>
+    <radialGradient id="glow" cx="0.5" cy="0.32" r="0.75">
+      <stop offset="0" stop-color="#1a1a1f"/>
+      <stop offset="1" stop-color="#0a0a0c"/>
+    </radialGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2a2a30" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3a3a42"/>
+      <stop offset="1" stop-color="#2a2a30" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="900" height="280" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="280" fill="url(#glow)"/>
+
+    <!-- eyebrow -->
+    <text x="450" y="92" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" letter-spacing="5" fill="#86868b">
+      ORACLE&#160;&#160;&#183;&#160;&#160;DATABASE&#160;&#160;&#183;&#160;&#160;SECURITY
+      <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="1.4s" fill="freeze"/>
+    </text>
+
+    <!-- name -->
+    <text x="450" y="150" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="44" font-weight="600" letter-spacing="0.5" fill="#f5f5f7">
+      Febil Pulickal Varkeychan
+      <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="1.6s" fill="freeze"/>
+    </text>
+
+    <!-- subtitle -->
+    <text x="450" y="186" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="400" letter-spacing="0.3" fill="#a1a1a6">
+      Oracle APEX &amp; PL/SQL Developer&#160;&#160;&#8212;&#160;&#160;Cybersecurity &amp; IAM
+      <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="1.6s" fill="freeze"/>
+    </text>
+
+    <!-- hairline -->
+    <rect x="330" y="212" width="240" height="1" fill="url(#hair)">
+      <animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="1.4s" fill="freeze"/>
+    </rect>
+
+    <!-- footnote -->
+    <text x="450" y="242" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" letter-spacing="1.2" fill="#6e6e73">
+      HCLTech &#160;&#183;&#160; Brampton, Canada &#160;&#183;&#160; Oracle &amp; Fortinet Certified
+      <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="1.6s" fill="freeze"/>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg width="900" height="150" viewBox="0 0 900 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="3+ years Oracle engineering, 18K-user platform supported, identity and access management, 4.0 GPA cybersecurity postgrad">
+  <defs>
+    <linearGradient id="vhair" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2a30" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38383f"/>
+      <stop offset="1" stop-color="#2a2a30" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="900" height="150" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="150" fill="#0a0a0c"/>
+
+    <!-- vertical hairlines -->
+    <rect x="225" y="30" width="1" height="90" fill="url(#vhair)"/>
+    <rect x="450" y="30" width="1" height="90" fill="url(#vhair)"/>
+    <rect x="675" y="30" width="1" height="90" fill="url(#vhair)"/>
+
+    <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" text-anchor="middle">
+      <!-- 1 -->
+      <g ><animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="1.2s" fill="freeze"/>
+        <text x="112" y="78" font-size="40" font-weight="300" fill="#f5f5f7">3+</text>
+        <text x="112" y="104" font-size="11" font-weight="500" letter-spacing="2.5" fill="#86868b">YEARS ORACLE</text>
+      </g>
+      <!-- 2 -->
+      <g ><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="1.2s" fill="freeze"/>
+        <text x="337" y="78" font-size="40" font-weight="300" fill="#f5f5f7">18K</text>
+        <text x="337" y="104" font-size="11" font-weight="500" letter-spacing="2.5" fill="#86868b">USER PLATFORM</text>
+      </g>
+      <!-- 3 -->
+      <g ><animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="1.2s" fill="freeze"/>
+        <text x="562" y="78" font-size="40" font-weight="300" fill="#f5f5f7">IAM</text>
+        <text x="562" y="104" font-size="11" font-weight="500" letter-spacing="2.5" fill="#86868b">OKTA &#183; SSO &#183; MFA</text>
+      </g>
+      <!-- 4 -->
+      <g ><animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="1.2s" fill="freeze"/>
+        <text x="787" y="78" font-size="40" font-weight="300" fill="#f5f5f7">4&#215;</text>
+        <text x="787" y="104" font-size="11" font-weight="500" letter-spacing="2.5" fill="#86868b">CERTIFICATIONS</text>
+      </g>
+    </g>
+  </g>
+</svg>
