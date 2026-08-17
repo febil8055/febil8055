@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/hero.svg" alt="Febil Pulickal Varkeychan — Oracle APEX & PL/SQL Developer · Cybersecurity & IAM" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/hero.svg">
+  <img src="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/hero-light.svg" alt="Febil Pulickal Varkeychan — Oracle APEX &amp; PL/SQL Developer · Cybersecurity &amp; IAM" width="100%">
+</picture>
 
-<img src="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/stats.svg" alt="3+ years Oracle · 18K-user platform · IAM (Okta, SSO, MFA) · 4× certified, Oracle & Fortinet" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/stats.svg">
+  <img src="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/stats-light.svg" alt="3+ years Oracle · 18K-user platform · IAM (Okta, SSO, MFA) · 4× certified, Oracle &amp; Fortinet" width="100%">
+</picture>
 
 </div>
 
@@ -17,8 +23,34 @@ Currently **Technical Consultant, Oracle PL/SQL** at **HCLTech**, Toronto.
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/expertise.svg" alt="Develop: Oracle APEX, PL/SQL, SQL, ORDS/REST, JavaScript, Java · Operate: Oracle Cloud OCI, Azure DevOps, RMAN, Data Pump, tuning, production support · Secure: Okta IAM, SSO/MFA/RBAC, AD sync, Splunk SIEM, Fortinet" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/expertise.svg">
+  <img src="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/expertise-light.svg" alt="Develop: Oracle APEX, PL/SQL, SQL, ORDS/REST, JavaScript, Java · Operate: Oracle Cloud OCI, Azure DevOps, ServiceNow, RMAN, Data Pump, tuning, production support · Secure: Okta IAM, SSO/MFA/RBAC, AD sync, Splunk SIEM, Fortinet · AI: Autonomous DB 26ai, APEX_AI agents, Google Gemini, AI Vector Search, Claude Code" width="100%">
+</picture>
 </div>
+
+<br>
+
+## Featured project
+
+### [EnterpriseFlow](https://github.com/febil8055/EnterpriseFlow) — enterprise operations platform
+
+Projects, tasks, employees, clients, audit logging, and an AI layer that reads live workspace
+data and surfaces what needs attention first. Built on Oracle APEX and PL/SQL, running on
+Autonomous Database 26ai in OCI — started on an Oracle Linux VM and migrated to the cloud
+mid-build.
+
+One constraint shaped the whole thing: **every figure on the dashboard has to be derived**.
+The workspace health score is a pure PL/SQL function, so *"closing this task takes you from
+92.3 to 93"* is that function evaluated against the counts the change would produce, not a
+stored string. The same rule cut the trend arrows I had already designed — no historical
+snapshots meant the number would have been invented.
+
+The AI brief follows it too. Gemini receives a snapshot of live workspace state and is asked
+to name the single most urgent item; the data is the entire prompt, so there is nothing for it
+to invent.
+
+`Oracle APEX 26.1` · `PL/SQL` · `Autonomous Database 26ai` · `OCI` · `Oracle Linux` · `APEX_AI agents` · `Google Gemini` · `ORDS`
 
 <br>
 
@@ -35,14 +67,17 @@ Currently **Technical Consultant, Oracle PL/SQL** at **HCLTech**, Toronto.
 
 ## Credentials
 
-**Oracle APEX Cloud Certified Developer Professional** · **OCI Foundations Associate** · **Fortinet Certified Associate, Cybersecurity**
+**Oracle APEX Cloud Certified Developer Professional** · **Oracle AI Vector Search Certified Professional** · **OCI Foundations Associate** · **Fortinet Certified Associate, Cybersecurity**
 
 Post-Graduate Certificate, Cybersecurity — Sault College
 B.Tech, Computer Science & Engineering — MGM College of Engineering & Technology
 
 <br>
 
-<img src="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/divider.svg" alt="" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/divider.svg">
+  <img src="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/divider-light.svg" alt="" width="100%">
+</picture>
 
 <div align="center">
 <br>
