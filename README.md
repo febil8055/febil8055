@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/stats.svg">
-  <img src="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/stats-light.svg" alt="3+ years Oracle · AI integration with APEX_AI agents and Google Gemini · IAM (Okta, SSO, MFA) · 4× certified" width="100%">
+  <img src="https://raw.githubusercontent.com/febil8055/febil8055/assets-branch/assets/stats-light.svg" alt="3.5+ years Oracle · AI integration with APEX_AI agents and Google Gemini · IAM (Okta, SSO, MFA) · 4× certified" width="100%">
 </picture>
 
 </div>
